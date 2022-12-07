@@ -1,0 +1,483 @@
+import 'package:flutter/material.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedMOBILIKUWidget55.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedLine135Widget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle634Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRp997000000Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle630Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedBMW330imsportWidget2.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRp997000000Widget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTerimaWidget3.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle631Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedJumlah01Widget3.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle627Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTerimaWidget5.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTerimaWidget4.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedBMW330imsportWidget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedBMW330imsportWidget3.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedAtaslogoWidget20.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedLine136Widget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle625Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTolakWidget2.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle626Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle636Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle622Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle633Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedJumlah01Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle632Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle621Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedLine137Widget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle624Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedLine138Widget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedIconchatWidget15.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedJumlah01Widget1.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTerimaWidget2.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTolakWidget3.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedFooterWidget17.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedPesananMasukWidget4.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedBMW330imsportWidget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle635Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedJumlah01Widget2.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRp997000000Widget3.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRp997000000Widget2.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTolakWidget4.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle623Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle628Widget.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedTolakWidget5.dart';
+import 'package:flutterapp/mobilapp/generatedpesananmasukwidget2/generated/GeneratedRectangle629Widget.dart';
+
+/* Frame pesanan masuk
+    Autogenerated by FlutLab FTF Generator
+  */
+class GeneratedPesananmasukWidget2 extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Material(
+        child: ClipRRect(
+      borderRadius: BorderRadius.circular(10.0),
+      child: Container(
+        width: 360.0,
+        height: 800.0,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(10.0),
+        ),
+        child: Stack(
+            fit: StackFit.expand,
+            alignment: Alignment.center,
+            overflow: Overflow.visible,
+            children: [
+              ClipRRect(
+                borderRadius: BorderRadius.circular(10.0),
+                child: Container(
+                  color: Color.fromARGB(255, 255, 255, 255),
+                ),
+              ),
+              Positioned(
+                left: 12.0,
+                top: 59.0,
+                right: null,
+                bottom: null,
+                width: 114.0,
+                height: 23.0,
+                child: GeneratedPesananMasukWidget4(),
+              ),
+              Positioned(
+                left: 20.0,
+                top: 90.0,
+                right: null,
+                bottom: null,
+                width: 90.0,
+                height: 90.0,
+                child: GeneratedRectangle621Widget(),
+              ),
+              Positioned(
+                left: 122.0,
+                top: 102.0,
+                right: null,
+                bottom: null,
+                width: 121.0,
+                height: 20.0,
+                child: GeneratedBMW330imsportWidget(),
+              ),
+              Positioned(
+                left: 124.0,
+                top: 133.0,
+                right: null,
+                bottom: null,
+                width: 56.0,
+                height: 15.0,
+                child: GeneratedJumlah01Widget(),
+              ),
+              Positioned(
+                left: 211.0,
+                top: 133.0,
+                right: null,
+                bottom: null,
+                width: 72.0,
+                height: 15.0,
+                child: GeneratedRp997000000Widget(),
+              ),
+              Positioned(
+                left: 130.0,
+                top: 170.0,
+                right: null,
+                bottom: null,
+                width: 20.0,
+                height: 20.0,
+                child: GeneratedRectangle622Widget(),
+              ),
+              Positioned(
+                left: 170.0,
+                top: 170.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle623Widget(),
+              ),
+              Positioned(
+                left: 270.0,
+                top: 170.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle624Widget(),
+              ),
+              Positioned(
+                left: 190.0,
+                top: 171.0,
+                right: null,
+                bottom: null,
+                width: 46.0,
+                height: 22.0,
+                child: GeneratedTerimaWidget2(),
+              ),
+              Positioned(
+                left: 294.0,
+                top: 171.0,
+                right: null,
+                bottom: null,
+                width: 37.0,
+                height: 22.0,
+                child: GeneratedTolakWidget2(),
+              ),
+              Positioned(
+                left: 20.0,
+                top: 220.0,
+                right: null,
+                bottom: null,
+                width: 90.0,
+                height: 90.0,
+                child: GeneratedRectangle625Widget(),
+              ),
+              Positioned(
+                left: 20.0,
+                top: 350.0,
+                right: null,
+                bottom: null,
+                width: 90.0,
+                height: 90.0,
+                child: GeneratedRectangle629Widget(),
+              ),
+              Positioned(
+                left: 20.0,
+                top: 480.0,
+                right: null,
+                bottom: null,
+                width: 90.0,
+                height: 90.0,
+                child: GeneratedRectangle633Widget(),
+              ),
+              Positioned(
+                left: 122.0,
+                top: 232.0,
+                right: null,
+                bottom: null,
+                width: 121.0,
+                height: 20.0,
+                child: GeneratedBMW330imsportWidget1(),
+              ),
+              Positioned(
+                left: 122.0,
+                top: 362.0,
+                right: null,
+                bottom: null,
+                width: 121.0,
+                height: 20.0,
+                child: GeneratedBMW330imsportWidget2(),
+              ),
+              Positioned(
+                left: 122.0,
+                top: 492.0,
+                right: null,
+                bottom: null,
+                width: 121.0,
+                height: 20.0,
+                child: GeneratedBMW330imsportWidget3(),
+              ),
+              Positioned(
+                left: 124.0,
+                top: 263.0,
+                right: null,
+                bottom: null,
+                width: 56.0,
+                height: 15.0,
+                child: GeneratedJumlah01Widget1(),
+              ),
+              Positioned(
+                left: 124.0,
+                top: 393.0,
+                right: null,
+                bottom: null,
+                width: 56.0,
+                height: 15.0,
+                child: GeneratedJumlah01Widget2(),
+              ),
+              Positioned(
+                left: 124.0,
+                top: 523.0,
+                right: null,
+                bottom: null,
+                width: 56.0,
+                height: 15.0,
+                child: GeneratedJumlah01Widget3(),
+              ),
+              Positioned(
+                left: 211.0,
+                top: 263.0,
+                right: null,
+                bottom: null,
+                width: 72.0,
+                height: 15.0,
+                child: GeneratedRp997000000Widget1(),
+              ),
+              Positioned(
+                left: 211.0,
+                top: 393.0,
+                right: null,
+                bottom: null,
+                width: 72.0,
+                height: 15.0,
+                child: GeneratedRp997000000Widget2(),
+              ),
+              Positioned(
+                left: 211.0,
+                top: 523.0,
+                right: null,
+                bottom: null,
+                width: 72.0,
+                height: 15.0,
+                child: GeneratedRp997000000Widget3(),
+              ),
+              Positioned(
+                left: 130.0,
+                top: 300.0,
+                right: null,
+                bottom: null,
+                width: 20.0,
+                height: 20.0,
+                child: GeneratedRectangle626Widget(),
+              ),
+              Positioned(
+                left: 130.0,
+                top: 430.0,
+                right: null,
+                bottom: null,
+                width: 20.0,
+                height: 20.0,
+                child: GeneratedRectangle630Widget(),
+              ),
+              Positioned(
+                left: 130.0,
+                top: 560.0,
+                right: null,
+                bottom: null,
+                width: 20.0,
+                height: 20.0,
+                child: GeneratedRectangle634Widget(),
+              ),
+              Positioned(
+                left: 170.0,
+                top: 300.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle627Widget(),
+              ),
+              Positioned(
+                left: 170.0,
+                top: 430.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle631Widget(),
+              ),
+              Positioned(
+                left: 170.0,
+                top: 560.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle635Widget(),
+              ),
+              Positioned(
+                left: 270.0,
+                top: 300.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle628Widget(),
+              ),
+              Positioned(
+                left: 270.0,
+                top: 430.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle632Widget(),
+              ),
+              Positioned(
+                left: 270.0,
+                top: 560.0,
+                right: null,
+                bottom: null,
+                width: 80.0,
+                height: 20.0,
+                child: GeneratedRectangle636Widget(),
+              ),
+              Positioned(
+                left: 190.0,
+                top: 301.0,
+                right: null,
+                bottom: null,
+                width: 46.0,
+                height: 22.0,
+                child: GeneratedTerimaWidget3(),
+              ),
+              Positioned(
+                left: 190.0,
+                top: 431.0,
+                right: null,
+                bottom: null,
+                width: 46.0,
+                height: 22.0,
+                child: GeneratedTerimaWidget4(),
+              ),
+              Positioned(
+                left: 190.0,
+                top: 561.0,
+                right: null,
+                bottom: null,
+                width: 46.0,
+                height: 22.0,
+                child: GeneratedTerimaWidget5(),
+              ),
+              Positioned(
+                left: 294.0,
+                top: 301.0,
+                right: null,
+                bottom: null,
+                width: 37.0,
+                height: 22.0,
+                child: GeneratedTolakWidget3(),
+              ),
+              Positioned(
+                left: 294.0,
+                top: 431.0,
+                right: null,
+                bottom: null,
+                width: 37.0,
+                height: 22.0,
+                child: GeneratedTolakWidget4(),
+              ),
+              Positioned(
+                left: 294.0,
+                top: 561.0,
+                right: null,
+                bottom: null,
+                width: 37.0,
+                height: 22.0,
+                child: GeneratedTolakWidget5(),
+              ),
+              Positioned(
+                left: 10.0,
+                top: 206.0,
+                right: null,
+                bottom: null,
+                width: 340.0,
+                height: 1.0,
+                child: GeneratedLine135Widget1(),
+              ),
+              Positioned(
+                left: 10.0,
+                top: 336.0,
+                right: null,
+                bottom: null,
+                width: 340.0,
+                height: 1.0,
+                child: GeneratedLine136Widget1(),
+              ),
+              Positioned(
+                left: 10.0,
+                top: 466.0,
+                right: null,
+                bottom: null,
+                width: 340.0,
+                height: 1.0,
+                child: GeneratedLine137Widget1(),
+              ),
+              Positioned(
+                left: 10.0,
+                top: 596.0,
+                right: null,
+                bottom: null,
+                width: 340.0,
+                height: 1.0,
+                child: GeneratedLine138Widget1(),
+              ),
+              Positioned(
+                left: 0.0,
+                top: 0.0,
+                right: null,
+                bottom: null,
+                width: 360.0,
+                height: 50.0,
+                child: GeneratedAtaslogoWidget20(),
+              ),
+              Positioned(
+                left: 312.0,
+                top: 13.0,
+                right: null,
+                bottom: null,
+                width: 25.0,
+                height: 25.0,
+                child: GeneratedIconchatWidget15(),
+              ),
+              Positioned(
+                left: 121.0,
+                top: 14.0,
+                right: null,
+                bottom: null,
+                width: 123.0,
+                height: 28.0,
+                child: GeneratedMOBILIKUWidget55(),
+              ),
+              Positioned(
+                left: 0.0,
+                top: 710.0,
+                right: null,
+                bottom: null,
+                width: 360.0,
+                height: 90.0,
+                child: GeneratedFooterWidget17(),
+              )
+            ]),
+      ),
+    ));
+  }
+}

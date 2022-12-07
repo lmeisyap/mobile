@@ -1,0 +1,115 @@
+description: "A new Flutter application."
+name: "flutterapp"
+publish_to: "none"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^1.0.5"
+  path_drawing: "^1.0.0"
+  flutter: 
+    sdk: "flutter"
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.12.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "IBM Plex Sans"
+      fonts: 
+        - 
+          asset: "fonts/IBMPlexSans-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Inter"
+      fonts: 
+        - 
+          asset: "fonts/Inter-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Inter-700.ttf"
+          style: "normal"
+          weight: 700
+        - 
+          asset: "fonts/Inter-600.ttf"
+          style: "normal"
+          weight: 600
+        - 
+          asset: "fonts/Inter-500.ttf"
+          style: "normal"
+          weight: 500
+    - 
+      family: "Mirza"
+      fonts: 
+        - 
+          asset: "fonts/Mirza-600.ttf"
+          style: "normal"
+          weight: 600
+    - 
+      family: "Alata"
+      fonts: 
+        - 
+          asset: "fonts/Alata-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Alegreya"
+      fonts: 
+        - 
+          asset: "fonts/Alegreya-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Arapey"
+      fonts: 
+        - 
+          asset: "fonts/Arapey-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Amiri"
+      fonts: 
+        - 
+          asset: "fonts/Amiri-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Anton"
+      fonts: 
+        - 
+          asset: "fonts/Anton-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Alice"
+      fonts: 
+        - 
+          asset: "fonts/Alice-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Asul"
+      fonts: 
+        - 
+          asset: "fonts/Asul-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Lateef"
+      fonts: 
+        - 
+          asset: "fonts/Lateef-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Asap"
+      fonts: 
+        - 
+          asset: "fonts/Asap-regular.ttf"
+          style: "normal"
+          weight: 400
+  uses-material-design: true
